@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: monotonenorm
+Version: 1.0.0
+Summary: Pytorch Implementation of constrained weight operator norms for robustness and monotonicity
+Home-page: UNKNOWN
+Author: Ouail Kitouni, Niklas Nolte
+Author-email: kitouni@mit.edu, nnolte@mit.edu
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
