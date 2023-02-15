@@ -1,1 +1,1 @@
-# WAL_research
+# WAR-Wasserstein active regression
