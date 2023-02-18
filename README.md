@@ -2,7 +2,20 @@
 
 You will find in this repository the codes used to test the performance of the WAR model on a full labeled dataset
 
-WAR-notebook: you can run the algorithm from there
+**WAR-notebook** : you can run the algorithm from there
+
+#### WAR directory
+**EarlyStop.py** : early stop class
+
+Experiment_functions.py : functions used to vizualise each components of WAR for debugging
+
+**Models.py**: Definition of the two neural networks h and phi
+
+**dataset_handler.py**: Definition of the dataset class and function to import the desired dataset
+
+**full_training_process.py**: main function
+
+**training_and_query.py**: function to run one round
 
 
 ## Abstract
