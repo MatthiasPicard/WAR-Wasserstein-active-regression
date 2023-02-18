@@ -2,6 +2,7 @@
 
 You will find in this repository the codes used to test the performance of the WAR model on a full labeled dataset
 
+WAR-notebook: you can run the algorithm from there
 
 
 ## Abstract
