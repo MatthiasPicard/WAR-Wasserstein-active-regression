@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+pandas
+matplotlib
+seaborn
+torch
+torchvision
+monotonenorm
